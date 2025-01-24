@@ -41,7 +41,7 @@ elsewhere.
 If you have reviewed existing documentation and still have questions, or you are having problems, you can get help in the following ways:
 
 -   **Asking in the support Telegram:** The [Foundry Support Telegram][support-tg] is a fast and easy way to ask questions.
--   **Opening a discussion:** This repository comes with a discussions board where you can also ask for help. Click the "Discussions" tab at the top.
+-   **Opening a discussion:** This repository comes with a discussion board where you can also ask for help. Click the "Discussions" tab at the top.
 
 As Foundry is still in heavy development, the documentation can be a bit scattered.
 The [Foundry Book][foundry-book] is our current best-effort attempt at keeping up-to-date information.
@@ -146,7 +146,7 @@ When reviewing a pull request, the primary goals are for the codebase to improve
 
 Do not overwhelm new contributors.
 
-It is tempting to micro-optimize and make everything about relative performance, perfect grammar, or exact style matches. Do not succumb to that temptation..
+It is tempting to micro-optimize and make everything about relative performance, perfect grammar, or exact style matches. Do not succumb to that temptation.
 
 Focus first on the most significant aspects of the change:
 
